@@ -1,0 +1,19 @@
+#subscription-rightNav {
+    display: none;
+}
+
+#sidebar {
+    display: none;
+}
+
+#content-wrapper {
+    width: 1000px;
+}
+
+body.home.blog.primary-5-article-3-image.secondary-24-article-12-image.sidebar-default.hasGoogleVoiceExt footer {
+    display: none;
+}
+
+div.tab-container {
+    width: 1000px;
+}
